@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/Tekstac_Eclipse_Plugin_2.6.1.jar" id="Tekstac_Eclipse_Plugin" version="2.6.1">
+      <category name="Tekstac Eclipse Plugin"/>
+   </feature>
+   <category-def name="Tekstac Eclipse Plugin" label="Tekstac Eclipse Plugin"/>
+</site>

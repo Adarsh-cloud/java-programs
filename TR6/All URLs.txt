@@ -1,0 +1,14 @@
+***********************ICompass*************************
+https://icompass.fs.capgemini.com/iCompass/#/login
+
+*************************iUpload**************
+http://10.219.32.200:8080/iupload/upload/upload.action 
+
+******************* For study material****************
+\\ndafile\Study Materials\JEE\2019\JEE Full stack
+
+******************* For other shared docs****************
+\\ndafile\Shared Materials\Sipcot-Lab5\TR6
+
+******************* For Softwares ****************
+\\ndafile\Softwares\JEE
